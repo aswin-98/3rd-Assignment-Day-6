@@ -1,0 +1,30 @@
+body{
+    background: yellowgreen;
+}
+#tle{
+
+color: brown;
+
+}
+#user{
+color:blueviolet;
+}
+#clock{
+color:deeppink;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
+#bd{
+background: yellowgreen;
+
+}
+
+#bd.show{
+background:black;
+
+
+
+}
